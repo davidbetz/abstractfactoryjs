@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "chai": "^4.0.2",
-    "codecov": "^2.3.0",
+    "codecov": "^3.7.1",
     "debug": "^2.6.8",
     "istanbul": "^0.4.5",
     "js-beautify": "^1.6.14",
